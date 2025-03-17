@@ -8,10 +8,21 @@ Hi! I'm a passionate Flutter developer who loves building beautiful and performa
 - 🌱 **Learning:** Flutter animations & state management techniques
 - 💬 **Ask me about:** Anything related to Flutter, mobile development, or UI/UX design
 
+## 🛠 Skills
+- 📱 Mobile Development (Flutter, Dart)
+- 🎨 UI/UX Design (Figma, Adobe XD)
+- 🔥 Firebase, Supabase (Auth, Firestore, Cloud Functions)
+- 🖥 State Management (Provider, Riverpod, Bloc)
+- 📡 API Integration (REST, GraphQL)
+- 🏗 CI/CD (Fastlane, GitHub Actions)
+- 🚀 Performance Optimization
+
+## 🎓 Certifications
+- ✅ Dart & Flutter - Zero to Mastery [2025] + Clean Architecture  (Udemy)
+- ✅ Git & GitHub Study Jam program (Clb GDSC HCMUTE and KMS organization)
+
 ## 📫 Connect with Me
-- 🌍 [My Website](https://yourwebsite.com)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)
+- 📘 [Facebook]([https://facebook.com/yourprofile](https://www.facebook.com/vocong.minh.75470/)
 - 📧 Email: 213.minhvc@gmail.com
 
 ## 📊 GitHub Stats
