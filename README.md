@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Vo Cong Minh]
+# Hi there! 👋 I'm Vo Cong Minh
 
 ## 🚀 About Me
 Hi! I'm a passionate Flutter developer who loves building beautiful and performant mobile applications. I specialize in crafting cross-platform apps with Flutter and Dart.
@@ -12,7 +12,7 @@ Hi! I'm a passionate Flutter developer who loves building beautiful and performa
 - 🌍 [My Website](https://yourwebsite.com)
 - 🐦 [Twitter](https://twitter.com/yourhandle)
 - 💼 [LinkedIn](https://linkedin.com/in/yourname)
-- 📧 Email: your.email@example.com
+- 📧 Email: 213.minhvc@gmail.com
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
