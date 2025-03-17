@@ -22,7 +22,7 @@ Hi! I'm a passionate Flutter developer who loves building beautiful and performa
 - ✅ Git & GitHub Study Jam program (Clb GDSC HCMUTE and KMS organization)
 
 ## 📫 Connect with Me
-- 📘 [Facebook]([https://facebook.com/yourprofile](https://www.facebook.com/vocong.minh.75470/))
+- 📘 [Facebook][https://facebook.com/yourprofile](https://www.facebook.com/vocong.minh.75470/)
 - 📧 Email: 213.minhvc@gmail.com
 
 ## 📊 GitHub Stats
