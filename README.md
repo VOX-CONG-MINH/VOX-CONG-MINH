@@ -31,7 +31,7 @@ Hi! I'm a passionate Flutter developer who loves building beautiful and performa
 - 📧 Email: 213.minhvc@gmail.com
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=minh-vox&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=minh-vox&show_icons=true&theme=radical&include_all_commits=true)
 
 ## 🏆 GitHub Achievements
 ![Your GitHub Achievements](https://github-profile-trophy.vercel.app/?username=minh-vox&theme=darkhub&no-frame=true)
