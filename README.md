@@ -19,7 +19,7 @@ Hi! I'm a passionate Flutter developer who loves building beautiful and performa
 ##### 🛠 Another Skills
 - 🛢 SQL (MySQL, PostgreSQL, SQLite)
 - 🐍 Python (Pandas, NumPy, Scikit-learn, TensorFlow)
-- 🤖 AI/ML (Deep Learning, NLP, Computer Vision)
+- 🤖 AI/ML (Deep Learning, NLP, LLMs)
 - 💻 C# (ASP.NET, Unity, WPF)
   
 ## 🎓 Certifications
