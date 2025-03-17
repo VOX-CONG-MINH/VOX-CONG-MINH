@@ -16,7 +16,12 @@ Hi! I'm a passionate Flutter developer who loves building beautiful and performa
 - 📡 API Integration (REST, GraphQL)
 - 🏗 CI/CD (Fastlane, GitHub Actions)
 - 🚀 Performance Optimization
-
+# 🛠 Another Skills
+- 🛢 SQL (MySQL, PostgreSQL, SQLite)
+- 🐍 Python (Pandas, NumPy, Scikit-learn, TensorFlow)
+- 🤖 AI/ML (Deep Learning, NLP, Computer Vision)
+- 💻 C# (ASP.NET, Unity, WPF)
+  
 ## 🎓 Certifications
 - ✅ Dart & Flutter - Zero to Mastery [2025] + Clean Architecture  (Udemy)
 - ✅ Git & GitHub Study Jam program (Clb GDSC HCMUTE and KMS organization)
