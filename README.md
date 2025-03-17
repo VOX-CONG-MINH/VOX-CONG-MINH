@@ -22,14 +22,14 @@ Hi! I'm a passionate Flutter developer who loves building beautiful and performa
 - ✅ Git & GitHub Study Jam program (Clb GDSC HCMUTE and KMS organization)
 
 ## 📫 Connect with Me
-- 📘 [Facebook][https://facebook.com/yourprofile](https://www.facebook.com/vocong.minh.75470/)
+- 📘 Facebook:  [https://facebook.com/yourprofile](https://www.facebook.com/vocong.minh.75470/)
 - 📧 Email: 213.minhvc@gmail.com
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=minh-vox&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Achievements
-![Your GitHub Achievements](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=darkhub&no-frame=true)
+![Your GitHub Achievements](https://github-profile-trophy.vercel.app/?username=minh-vox&theme=darkhub&no-frame=true)
 
 ---
 🚀 Always exploring new technologies and pushing the limits of Flutter development!
