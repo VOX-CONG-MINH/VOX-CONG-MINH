@@ -3,9 +3,9 @@
 ## 🚀 About Me
 Hi! I'm a passionate Flutter developer who loves building beautiful and performant mobile applications. I specialize in crafting cross-platform apps with Flutter and Dart.
 
-- 💻 **Tech Stack:** Flutter, Dart, Firebase, REST APIs, GraphQL
+- 💻 **Tech Stack:** Flutter, Dart, Firebase, Supabase, REST APIs, GraphQL
 - 🔭 **Current Focus:** Building high-performance mobile apps with Flutter
-- 🌱 **Learning:** Advanced Flutter animations & state management techniques
+- 🌱 **Learning:** Flutter animations & state management techniques
 - 💬 **Ask me about:** Anything related to Flutter, mobile development, or UI/UX design
 
 ## 📫 Connect with Me
