@@ -1,40 +1,57 @@
-# Hi there! 👋 I'm Vo Cong Minh
+# 👋 Hi there! I'm Vo Cong Minh
 
-## 🚀 About Me
-Hi! I'm a passionate Flutter developer who loves building beautiful and performant mobile applications. I specialize in crafting cross-platform apps with Flutter and Dart.
+## 🚀 About Me  
+I'm a passionate **Flutter developer** with a background in **Data Engineering**. I enjoy crafting beautiful and high-performance mobile applications, while also exploring the intersection of mobile development and AI/LLMs.  
 
-- 💻 **Tech Stack:** Flutter, Dart, Firebase, Supabase, REST APIs, GraphQL
-- 🔭 **Current Focus:** Building high-performance mobile apps with Flutter
-- 🌱 **Learning:** Flutter animations & state management techniques
-- 💬 **Ask me about:** Anything related to Flutter, mobile development, or UI/UX design
-
-## 🛠 Skills
-- 📱 Mobile Development (Flutter, Dart)
-- 🎨 UI/UX Design (Figma, Adobe XD)
-- 🔥 Firebase, Supabase (Auth, Firestore, Cloud Functions)
-- 🖥 State Management (Provider, Riverpod, Bloc)
-- 📡 API Integration (REST, GraphQL)
-- 🏗 CI/CD (Fastlane, GitHub Actions)
-- 🚀 Performance Optimization
-##### 🛠 Another Skills
-- 🛢 SQL (MySQL, PostgreSQL, SQLite)
-- 🐍 Python (Pandas, NumPy, Scikit-learn, TensorFlow)
-- 🤖 AI/ML (Deep Learning, NLP, LLMs)
-- 💻 C# (ASP.NET, Unity, WPF)
-  
-## 🎓 Certifications
-- ✅ Dart & Flutter - Zero to Mastery [2025] + Clean Architecture  (Udemy)
-- ✅ Git & GitHub Study Jam program (Clb GDSC HCMUTE and KMS organization)
-
-## 📫 Connect with Me
-- 📘 Facebook:  [https://facebook.com/vocongminh](https://www.facebook.com/vocong.minh.75470/)
-- 📧 Email: 213.minhvc@gmail.com
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=minh-vox&show_icons=true&theme=radical&include_all_commits=true)
-
-## 🏆 GitHub Achievements
-![Your GitHub Achievements](https://github-profile-trophy.vercel.app/?username=minh-vox&theme=darkhub&no-frame=true)
+- 💻 **Tech Stack:** Flutter, Dart, Firebase, Supabase, REST APIs, GraphQL  
+- 🔭 **Current Focus:** Flutter performance, UI/UX, and integrating LLMs into mobile apps  
+- 🌱 **Learning:** Flutter animations, advanced state management, AI integrations  
+- 💬 **Ask me about:** Flutter, clean architecture, UI/UX design, or data-driven mobile apps  
 
 ---
-🚀 Always exploring new technologies and pushing the limits of Flutter development!
+
+## 🛠 Skills
+
+### 📱 Mobile Development
+- Flutter & Dart  
+- UI/UX Design (Figma, Adobe XD)  
+- State Management: Provider, Riverpod, Bloc  
+- Firebase & Supabase (Auth, Firestore, Functions)  
+- RESTful APIs, GraphQL
+
+### 🔍 Data Engineering & AI
+- SQL (PostgreSQL, MySQL, SQLite)  
+- Python (Pandas, NumPy, Scikit-learn, TensorFlow)  
+- Data Pipelines & ETL  
+- LLMs (Prompt Engineering, LangChain, OpenAI APIs)  
+- Graph Technologies (Neo4j, Cypher, GraphQL)  
+- Data Visualization (Matplotlib, Plotly)
+
+### 🚀 DevOps & Performance
+- CI/CD with Fastlane & GitHub Actions  
+- Mobile Performance Optimization
+
+---
+
+## 📚 Certifications
+- ✅ **Dart & Flutter – Zero to Mastery** + Clean Architecture (Udemy, 2025)  
+- ✅ **Git & GitHub Study Jam** – GDSC HCMUTE x KMS Technology  
+- 📘 **Ongoing:** Advanced AI/ML & LLM Development
+
+---
+
+## 📫 Connect with Me
+- 📘 Facebook: [facebook.com/vocongminh](https://www.facebook.com/vocong.minh.75470/)  
+- 📧 Email: [213.minhvc@gmail.com](mailto:213.minhvc@gmail.com)
+
+---
+
+## 📊 GitHub Stats  
+![Minh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minh-vox&show_icons=true&theme=radical&include_all_commits=true)
+
+## 🏆 GitHub Achievements  
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=minh-vox&theme=darkhub&no-frame=true)
+
+---
+
+> 🚀 Always exploring new technologies, pushing the limits of Flutter development, and combining mobile power with data and AI.
