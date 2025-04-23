@@ -22,7 +22,6 @@ I'm a passionate **Flutter developer** with a background in **Data Engineering**
 ### 🔍 Data Engineering & AI
 - SQL (PostgreSQL, MySQL, SQLite)  
 - Python (Pandas, NumPy, Scikit-learn, TensorFlow)  
-- Data Pipelines & ETL  
 - LLMs (Prompt Engineering, LangChain, OpenAI APIs)  
 - Graph Technologies (Neo4j, Cypher, GraphQL)  
 - Data Visualization (Matplotlib, Plotly)
