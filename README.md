@@ -19,6 +19,13 @@ I'm a passionate **Flutter developer** with a background in **Data Engineering**
 - Firebase & Supabase (Auth, Firestore, Functions)  
 - RESTful APIs, GraphQL
 
+### 🌐 Web Development
+- HTML5, CSS3, JavaScript (ES6+)  
+- Frontend Frameworks: React.js (basic), Bootstrap, Tailwind CSS  
+- Backend: java (basic) 
+- Database: MySQL, GraphQL
+- Web Hosting: Firebase Hosting
+
 ### 🔍 Data Engineering & AI
 - SQL (PostgreSQL, MySQL, SQLite)  
 - Python (Pandas, NumPy, Scikit-learn, TensorFlow)  
